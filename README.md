@@ -1,10 +1,12 @@
-# GoSnap 📸
-GoSnap is a mobile app that allows people to get a new reason to go outside by giving them the ability to take a picture and upload it, and let them add tags to their picture and let others add upvotes to their picture.
-If most votes of the week, month or year are selected, a cash prize will be given to the users account balance so they can transfer it when needed.
+# 📸 GoSnap – Explore, Capture, Compete!  
 
-Cash Prizes:
-- Best of Week: $2,
-- Best of Month: $5,
-- Best of Year: $15
+GoSnap is a mobile app designed to inspire people to explore the outdoors by capturing and sharing unique moments. Users can take photos, add tags, and let others upvote their submissions. The top voted pictures of the week, month, and year earn cash prizes!  
 
-Prices might change depending on my balance...
+## 🏆 Cash Prizes  
+- **Best of the Week:** $2  
+- **Best of the Month:** $5  
+- **Best of the Year:** $15  
+
+> *Prizes may vary depending on available funds.*  
+
+Start snapping, tagging, and climbing the leaderboard today! 🤑  
